@@ -1,4 +1,4 @@
-# Auto-Differentiation Based MRI Pulse Design
+# Auto-Differentiation Based MRI Pulse Design, for velocity selective pulses
 
 Reference implementation of:\
 [Joint Design of RF and Gradient Waveforms via Auto-Differentiation for 3D Tailored Exitation in MRI](https://ieeexplore.ieee.org/document/9439482)\
